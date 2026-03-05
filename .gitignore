@@ -1,0 +1,20 @@
+# Firebase
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# API Keys & Secrets
+Config.swift
+**/Config.swift
+
+# Xcode
+.DS_Store
+**/.DS_Store
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+DerivedData/
+build/
+
+# Mac
+.DS_Store
